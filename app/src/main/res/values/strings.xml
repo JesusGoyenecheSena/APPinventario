@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APPInventario</string>
+
+
+    <string name="btn_iniciar_secion">Iniciar</string>
+    <string name="btn_reistrase">Registrases</string>
+    <string name="btn_pantalla_registro">Registrases</string>
+
+
+</resources>
